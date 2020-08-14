@@ -1,0 +1,29 @@
+.array-container{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    margin-top: 2em;
+    display: inline-block;
+    border: 2px solid #b7efcd;
+    box-shadow: 5px 5px 5px #99d8d0;
+    background-color: #99d8d0;
+}
+
+.array-bar{
+    width: 7px;
+    display: inline-block;
+    margin: 0 1px;
+    background-color: #ffbcbc;
+    border: 1px solid black;
+    margin-left: 2px;
+}
+
+
+.btns{
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.algo-btns{
+    margin-left: 2em;
+}
