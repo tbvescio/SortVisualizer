@@ -1,0 +1,10 @@
+.array-container{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    margin-top: 2em;
+    display: inline-block;
+    border: 2px solid #b7efcd;
+    box-shadow: 5px 5px 1px #99d8d0;
+    background-color: #99d8d0;
+}

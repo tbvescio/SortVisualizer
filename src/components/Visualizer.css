@@ -4,16 +4,16 @@
     padding: 1em;
     margin-top: 2em;
     display: inline-block;
-    border: 2px solid #b7efcd;
-    box-shadow: 5px 5px 1px #99d8d0;
-    background-color: #99d8d0;
+    border: 2px solid #eac8af;
+    box-shadow: 5px 5px 1px #5f939a;
+    background-color: #5f939a;
 }
 
 .array-bar{
     width: 7px;
     display: inline-block;
     margin: 0 1px;
-    background-color: #ffbcbc;
+    background-color: #d8ac9c;
     border: 1px solid black;
     margin-left: 2px;
 }
